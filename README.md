@@ -14,8 +14,9 @@
 
 ## インストール
 
-Reactを使用しています（必要なかったかもしれません）。
-<code>npx create-react-app myapp</code>
+Reactを使用しています（必要なかったかもしれません）。 <br>
+セットアップ後、ディレクトリに移動してサーバーを起動させてください。
 
-```bash
-コマンドラインでのインストールコマンドをここに記述
+`npx create-react-app myapp`
+`cd myapp`
+`npm start`
