@@ -17,6 +17,6 @@
 Reactを使用しています（必要なかったかもしれません）。 <br>
 セットアップ後、ディレクトリに移動してサーバーを起動させてください。
 
-`npx create-react-app myapp`
-`cd myapp`
+`npx create-react-app myapp` <br>
+`cd myapp` <br>
 `npm start`
