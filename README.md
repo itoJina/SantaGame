@@ -4,6 +4,7 @@
 
 ##イメージ
 
+![sannta](https://github.com/itoJina/SantaGame/assets/74310455/f497270a-6981-4e82-93ce-29b089a273cf)
 
 
 https://github.com/itoJina/SantaGame/assets/74310455/0e234948-a9e2-4520-8f87-954fe16b35d3
