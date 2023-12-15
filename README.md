@@ -25,7 +25,9 @@ https://github.com/itoJina/SantaGame/assets/74310455/0e234948-a9e2-4520-8f87-954
 
 Reactを使用しています（必要なかったかもしれません）。 <br>
 セットアップ後、ディレクトリに移動してサーバーを起動させてください。
+※srcのファイルを上記のファイルと入れ替えてください。
 
 `npx create-react-app myapp` <br>
 `cd myapp` <br>
+srcファイルを入れ替える。 <br>
 `npm start`
